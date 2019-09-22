@@ -13,8 +13,6 @@
 <link rel="canonical" href="https://dima199980.github.io/rsschool-cv/cv.html" />
 <meta property="og:url" content="https://a-popova.github.io/rsschool-cv/cv.html" />
 <meta property="og:site_name" content="rsschool-cv" />
-<script type="application/ld+json">
-{"@type":"WebPage","url":"https://dima199980.github.io/rsschool-cv/cv.html","headline":"rsschool-cv","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/rsschool-cv/assets/css/style.css?v=00d8baff3cff989936d8c0293be8936fac054bd2">
