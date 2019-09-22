@@ -13,7 +13,14 @@
  <li>Basic knowledge of testing web based applications</li>
  <li>Basic in team control and management</li>
  <li>Strong practical analytical skills and planning</li>
- <li>Common sense</li> 
- <p><strong>Experience</strong></p>
+ <li>Common sense</li><br>
+ <p><strong>Skills</strong></p>
+ <li><strong>Programming Languages:</strong> Basic knowledge of :PHP, HTML, Angular JS, Node JS, C++</li>
+ <li><strong>Test Management:</strong> TestRail</li>
+ <li><strong>Bug tracking systems:</strong> Asana , Jira</li>
+ <li><strong>Web testing:</strong> JMetetr</li>
+ <li><strong>Databases:</strong> Mysql, postgresql</li>
+ <li><strong>Development tools:</strong> Webstorm, visual studio</li>
+ <li><strong>OS:</strong> Windows, Linux, MacOS</li><br>
  <li><strong>Education:</strong></li>
  <li><strong>English:</strong></li>
