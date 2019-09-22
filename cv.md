@@ -3,7 +3,7 @@
  <li>+375259491393</li>
  <li>dima19998003@gmail.com</li>
  <li>Skype: dima199980</li>
- <li>Telegram: Dima3854</li>
+ <li>Telegram: Dima3854</li><br>
  
  <p><strong>Summary</strong></p>
  <li>Knowledge of Full Stack development (Front - AngularJS, Backend - NodeJS)</li>
