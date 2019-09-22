@@ -22,5 +22,10 @@
  <li><strong>Databases:</strong> Mysql, postgresql</li>
  <li><strong>Development tools:</strong> Webstorm, visual studio</li>
  <li><strong>OS:</strong> Windows, Linux, MacOS</li><br>
- <li><strong>Education:</strong></li>
- <li><strong>English:</strong></li>
+ <p><strong>Education</strong></p>
+ <li><strong>August 2018:</strong> Starting work in "ITTAS" company.</li>
+ <li><strong>September 2017:</strong> Educational Center of High-Tech Park, Software Testing Engineer course.</li>
+ <li><strong>September 2017:</strong> Study in BSUIR   university, correspondence department(Faculty of Computer Systems and Networks</li>
+ <li><strong>June 2017:</strong> Graduated from gymnasium No. 21 in Minsk</li>
+ <li><strong>May 2009:</strong> Graduated from music school №2</li><br>
+ <p><strong>English:</strong> B1</p>
