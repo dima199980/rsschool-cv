@@ -1,1 +1,1 @@
-rqXEGMb+G5QkeAPElxM1ks3h/ai9GHX4aRbHL1u7cqw=
+https://github.com/dima199980/rsschool-cv/blob/gh-pages/cv.md
